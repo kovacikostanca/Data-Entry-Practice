@@ -17,7 +17,7 @@ You need to be comfortable with these:
 
 1. **Using folders & files:**
        - Create folders to organize documents.
-       - Save files with clear names (e.g. `Invoices_Jan2026.xlsx).
+       - Save files with clear names (e.g. `Invoices_Jan2026.xlsx`).
 2. **Copy & Paste:**
        - Select text -> Ctrl + C(copy) -> Ctrl + V(Paste)
 3. **Undo mistakes:**
